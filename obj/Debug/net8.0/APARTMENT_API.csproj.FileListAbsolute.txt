@@ -1,0 +1,4 @@
+D:\Year_3\Term_1\Oracle_Project\Fronend\Apartment-fronend\obj\Debug\net8.0\APARTMENT_API.csproj.AssemblyReference.cache
+D:\Year_3\Term_1\Oracle_Project\Fronend\Apartment-fronend\obj\Debug\net8.0\APARTMENT_API.dll
+D:\Year_3\Term_1\Oracle_Project\Fronend\Apartment-fronend\obj\Debug\net8.0\refint\APARTMENT_API.dll
+D:\Year_3\Term_1\Oracle_Project\Fronend\Apartment-fronend\obj\Debug\net8.0\APARTMENT_API.pdb

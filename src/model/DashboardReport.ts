@@ -1,0 +1,19 @@
+export interface DashboardReport{
+    totalRoom : number,
+    avalibaleRoom : number,
+    occupiedRoom : number,
+    totalGuest : number,
+    totalBooking : number,
+    todayCheckIn : number,
+    todayCheckOut : number,
+    pendingBooking : number,
+    reserved : number,
+    totalExpent : number,
+    selectedMonth : number,
+    selectedYear : number,
+    monthlyIncome : number,
+    profite : number,
+    profitStatus : string,
+    todayRevenueDollar : number,
+    todayRevenueRiel : number
+}
